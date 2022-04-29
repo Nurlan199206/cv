@@ -18,6 +18,7 @@ $(function(){
 			 "images/tm-bg-slide-6.jpg",
 			 "images/tm-bg-slide-7.jpg",
 			 "images/tm-bg-slide-8.jpg",
+			 "images/tm-bg-slide-9.jpg",
 	 			], 	{duration: 3200, fade: 1300});
 		});
 })
